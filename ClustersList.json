@@ -1,0 +1,140 @@
+﻿{
+ "system": {
+   "version": "1.2",
+   "date": "15.08.2018"},
+
+ "clusters": {
+   "list": [
+     {"name": "RU1",
+      "place": "Russia: Moscow",
+      "address": "login.p1.worldoftanks.net",
+      "color": "#FF0000", //Red
+      "visible": [0,1]},
+
+     {"name": "RU2",
+      "place": "Russia: Moscow",
+      "address": "login.p2.worldoftanks.net",
+      "color": "#EB9100", //Orange
+      "visible": [0,2]},
+
+     {"name": "RU3",
+      "place": "Germany: Frankfurt",
+      "address": "login.p3.worldoftanks.net",
+      "color": "#32CD32", //Limegreen
+      "visible": [0,3]},
+
+     {"name": "RU4",
+      "place": "Russia: Yekaterinburg",
+      "address": "login.p4.worldoftanks.net",
+      "color": "#008000", //Green
+      "visible": [0,4]},
+
+     {"name": "RU5",
+      "place": "Russia: Moscow",
+      "address": "login.p5.worldoftanks.net",
+      "color": "#006C6C", //DarkTeal
+      "visible": [0,5]},
+
+     {"name": "RU6",
+      "place": "Russia: Moscow",
+      "address": "login.p6.worldoftanks.net",
+      "color": "#00BFFF", //DeepSkyBlue
+      "visible": [0]},
+
+     {"name": "RU7",
+      "place": "Russia: Moscow",
+      "address": "login.p7.worldoftanks.net",
+      "color": "#0000FF", //Blue
+      "visible": [0]},
+
+     {"name": "RU8",
+      "place": "Russia: Krasnoyarsk",
+      "address": "login.p8.worldoftanks.net",
+      "color": "#8B008B", //DarkMagenta
+      "visible": [0]},
+
+     {"name": "RU9",
+      "place": "Russia: Khabarovsk",
+      "address": "login.p9.worldoftanks.net",
+      "color": "#FF00FF", //Fuschia
+      "visible": [0]},
+
+     {"name": "RU10",
+      "place": "Kazakhstan: Pavlodar",
+      "address": "login.p10.worldoftanks.net",
+      "color": "#A52A2A", //Brown
+      "visible": [0]},
+
+     {"name": "EU1",
+      "place": "Germany: Munich",
+      "address": "login.p1.worldoftanks.eu",
+      "color": "#000000", //Black
+      "visible": []},
+
+     {"name": "EU2",
+      "place": "Netherlands: Amsterdam",
+      "address": "login.p2.worldoftanks.eu",
+      "color": "#EB9100", //Orange
+      "visible": []},
+
+     {"name": "USC",
+      "place": "USA: Chicago",
+      "address": "wotna3.login.wargaming.net",
+      "color": "#DC143C", //Crimson
+      "visible": []},
+
+     {"name": "LATAM",
+      "place": "Brazil: Sao Paulo",
+      "address": "wotna4.login.wargaming.net",
+      "color": "#32CD32", //Limegreen
+      "visible": []},
+
+     {"name": "SG",
+      "place": "Republic of Singapore: Singapore",
+      "address": "wotasia1.login.wargaming.net",
+      "color": "#008000", //Green
+      "visible": []},
+
+     {"name": "HK",
+      "place": "Hong Kong: Hong Kong",
+      "address": "wotasia2.login.wargaming.net",
+      "color": "#DC143C", //Crimson
+      "visible": []},
+
+     {"name": "ANZ",
+      "place": "Australia: Sydney",
+      "address": "wotasia3.login.wargaming.net",
+      "color": "#00008B", //Darkblue
+      "visible": []},
+
+     {"name": "CH1",
+      "place": "China: Langfang",
+      "address": "login.cn-n.worldoftanks.cn",
+      "color": "#FF0000", //Red
+      "visible": []},
+
+     {"name": "CH2",
+      "place": "China: Shanghai",
+      "address": "login.p1.cn-s.worldoftanks.cn",
+      "color": "#FF8C00", //DarkOrange
+      "visible": []},
+
+     {"name": "CH3",
+      "place": "China: Chengdu",
+      "address": "login.p2.cn-s.worldoftanks.cn",
+      "color": "#FF00FF", //Fuschia
+      "visible": []},
+
+     {"name": "CH4",
+      "place": "China: Guangzhou",
+      "address": "login.p3.cn-s.worldoftanks.cn",
+      "color": "#8A2BE2", //BlueViolet
+      "visible": []},
+
+     {"name": "XVM",
+      "place": "Germany: Nuremberg",
+      "address": "stat.modxvm.com",
+      "color": "#000000", //Black
+      "visible": []}]
+   }
+}
