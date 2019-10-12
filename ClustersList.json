@@ -1,7 +1,7 @@
 ﻿{
  "system": {
    "version": "1.2",
-   "date": "15.08.2018"},
+   "date": "11.10.2019"},
 
  "clusters": {
    "list": [
@@ -18,7 +18,7 @@
       "visible": [0,2]},
 
      {"name": "RU3",
-      "place": "Germany: Frankfurt",
+      "place": "Luxembourg: Luxembourg",
       "address": "login.p3.worldoftanks.net",
       "color": "#32CD32", //Limegreen
       "visible": [0,3]},
@@ -66,13 +66,13 @@
       "visible": [0]},
 
      {"name": "EU1",
-      "place": "Germany: Munich",
+      "place": "Netherlands: Amsterdam",
       "address": "login.p1.worldoftanks.eu",
       "color": "#000000", //Black
       "visible": []},
 
      {"name": "EU2",
-      "place": "Netherlands: Amsterdam",
+      "place": "Luxembourg: Luxembourg",
       "address": "login.p2.worldoftanks.eu",
       "color": "#EB9100", //Orange
       "visible": []},
@@ -108,7 +108,7 @@
       "visible": []},
 
      {"name": "CH1",
-      "place": "China: Langfang",
+      "place": "China: Hebei",
       "address": "login.cn-n.worldoftanks.cn",
       "color": "#FF0000", //Red
       "visible": []},
@@ -126,13 +126,13 @@
       "visible": []},
 
      {"name": "CH4",
-      "place": "China: Guangzhou",
+      "place": "China: Guangdong",
       "address": "login.p3.cn-s.worldoftanks.cn",
       "color": "#8A2BE2", //BlueViolet
       "visible": []},
 
      {"name": "XVM",
-      "place": "Germany: Nuremberg",
+      "place": "Germany: Falkenstein/Vogtland",
       "address": "stat.modxvm.com",
       "color": "#000000", //Black
       "visible": []}]
