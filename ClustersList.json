@@ -1,7 +1,7 @@
 ﻿{
  "system": {
-   "version": "1.2",
-   "date": "11.10.2019"},
+   "version": "1.2",      //Don't change!
+   "date": "02.02.2020"}, //Update when changing servers
 
  "clusters": {
    "list": [
@@ -63,6 +63,24 @@
       "place": "Kazakhstan: Pavlodar",
       "address": "login.p10.worldoftanks.net",
       "color": "#A52A2A", //Brown
+      "visible": [0]},
+
+     {"name": "RU11",
+      "place": "Uzbekistan: Tashkent",
+      "address": "login.p11.worldoftanks.net",
+      "color": "#039AB5", //Sky-blue
+      "visible": [0]},
+
+     {"name": "RU12",
+      "place": "Russia: Moscow",
+      "address": "login.p12.worldoftanks.net",
+      "color": "#DC143C", //Crimson
+      "visible": [0]},
+
+     {"name": "RU13",
+      "place": "Russia: Moscow",
+      "address": "login.p13.worldoftanks.net",
+      "color": "#8A2BE2", //Blueviolet
       "visible": [0]},
 
      {"name": "EU1",
