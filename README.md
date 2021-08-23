@@ -1,5 +1,5 @@
 # WSPinger-ClustersList
-Static list with addresses and descriptions of the actual clusters of the WorldOfTanks game.
+Static list with addresses and descriptions of the actual clusters of the WorldOfTanks game for the [WSPinger](https://koreanrandom.com/forum/topic/41957-) program.
 
 ### Using
 The program accesses this list at its first launch. Or every time you delete its configuration json-file. From this list, a set of clusters is formed for pinging by default. In the future, the user can correct it through the program configuration json-file.
