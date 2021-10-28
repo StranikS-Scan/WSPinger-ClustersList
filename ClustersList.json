@@ -1,7 +1,7 @@
 ﻿{
  "system": {
    "version": "1.2",      //Don't change!
-   "date": "25.08.2021"}, //Update when changing servers
+   "date": "29.10.2021"}, //Update when changing servers
 
  "clusters": {
    "list": [
@@ -81,6 +81,20 @@
       "color": "#039AB5", //Sky-blue
       "visible": [0],
       "api": "RU11"},
+
+     {"name": "RU12",
+      "place": "Russia: Moscow",
+      "address": "login.p12.worldoftanks.net",
+      "color": "#DC143C", //Crimson
+      "visible": [0],
+      "api": "RU12"},
+
+     {"name": "RU13",
+      "place": "Russia: Moscow",
+      "address": "login.p13.worldoftanks.net",
+      "color": "#8A2BE2", //Blueviolet
+      "visible": [0],
+      "api": "RU13"},
 
      {"name": "EU1",
       "place": "Netherlands: Amsterdam",
