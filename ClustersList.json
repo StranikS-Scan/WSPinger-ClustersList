@@ -1,7 +1,7 @@
 ﻿{
  "system": {
    "version": "1.2",      //Don't change!
-   "date": "29.10.2021"}, //Update when changing servers
+   "date": "28.04.2022"}, //Update when changing servers
 
  "clusters": {
    "list": [
@@ -48,7 +48,7 @@
       "api": "RU6"},
 
      {"name": "RU7",
-      "place": "Russia: Moscow",
+      "place": "Russia: Saint-Petersburg",
       "address": "login.p7.worldoftanks.net",
       "color": "#0000FF", //Blue
       "visible": [0],
@@ -69,7 +69,7 @@
       "api": "RU9"},
 
      {"name": "RU10",
-      "place": "Kazakhstan: Pavlodar",
+      "place": "Kazakhstan: Almaty",
       "address": "login.p10.worldoftanks.net",
       "color": "#A52A2A", //Brown
       "visible": [0],
@@ -95,6 +95,13 @@
       "color": "#8A2BE2", //Blueviolet
       "visible": [0],
       "api": "RU13"},
+
+     {"name": "RU14",
+      "place": "Russia: Moscow",
+      "address": "login.p14.worldoftanks.net",
+      "color": "#4B0082", //Indigo
+      "visible": [0],
+      "api": "RU14"},
 
      {"name": "EU1",
       "place": "Netherlands: Amsterdam",
