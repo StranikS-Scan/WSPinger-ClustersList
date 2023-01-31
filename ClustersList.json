@@ -1,107 +1,65 @@
 ﻿{
  "system": {
-   "version": "1.2",      //Don't change!
-   "date": "28.04.2022"}, //Update when changing servers
+   "version": "1.3",      //Don't change!
+   "date": "31.01.2023"}, //Update when changing servers
 
  "clusters": {
    "list": [
      {"name": "RU1",
       "place": "Russia: Moscow",
-      "address": "login.p1.worldoftanks.net",
+      "address": "login.p1.tanki.su",
       "color": "#FF0000", //Red
       "visible": [0,1],
       "api": "RU1"},
 
      {"name": "RU2",
       "place": "Russia: Moscow",
-      "address": "login.p2.worldoftanks.net",
+      "address": "login.p2.tanki.su",
       "color": "#EB9100", //Orange
       "visible": [0,2],
       "api": "RU2"},
 
-     {"name": "RU3",
-      "place": "Luxembourg: Luxembourg",
-      "address": "login.p3.worldoftanks.net",
-      "color": "#32CD32", //Limegreen
-      "visible": [0,3],
-      "api": "RU3"},
-
      {"name": "RU4",
       "place": "Russia: Yekaterinburg",
-      "address": "login.p4.worldoftanks.net",
-      "color": "#008000", //Green
-      "visible": [0,4],
+      "address": "login.p4.tanki.su",
+      "color": "#32CD32", //Limegreen
+      "visible": [0,3],
       "api": "RU4"},
 
      {"name": "RU5",
       "place": "Russia: Moscow",
-      "address": "login.p5.worldoftanks.net",
+      "address": "login.p5.tanki.su",
       "color": "#006C6C", //DarkTeal
-      "visible": [0,5],
+      "visible": [0,4],
       "api": "RU5"},
 
      {"name": "RU6",
       "place": "Russia: Moscow",
-      "address": "login.p6.worldoftanks.net",
+      "address": "login.p6.tanki.su",
       "color": "#00BFFF", //DeepSkyBlue
-      "visible": [0],
+      "visible": [0,5],
       "api": "RU6"},
 
      {"name": "RU7",
       "place": "Russia: Saint-Petersburg",
-      "address": "login.p7.worldoftanks.net",
+      "address": "login.p7.tanki.su",
       "color": "#0000FF", //Blue
       "visible": [0],
       "api": "RU7"},
 
      {"name": "RU8",
       "place": "Russia: Krasnoyarsk",
-      "address": "login.p8.worldoftanks.net",
+      "address": "login.p8.tanki.su",
       "color": "#8B008B", //DarkMagenta
       "visible": [0],
       "api": "RU8"},
 
      {"name": "RU9",
       "place": "Russia: Khabarovsk",
-      "address": "login.p9.worldoftanks.net",
+      "address": "login.p9.tanki.su",
       "color": "#FF00FF", //Fuschia
       "visible": [0],
       "api": "RU9"},
-
-     {"name": "RU10",
-      "place": "Kazakhstan: Almaty",
-      "address": "login.p10.worldoftanks.net",
-      "color": "#A52A2A", //Brown
-      "visible": [0],
-      "api": "RU10"},
-
-     {"name": "RU11",
-      "place": "Uzbekistan: Tashkent",
-      "address": "login.p11.worldoftanks.net",
-      "color": "#039AB5", //Sky-blue
-      "visible": [0],
-      "api": "RU11"},
-
-     {"name": "RU12",
-      "place": "Russia: Moscow",
-      "address": "login.p12.worldoftanks.net",
-      "color": "#DC143C", //Crimson
-      "visible": [0],
-      "api": "RU12"},
-
-     {"name": "RU13",
-      "place": "Russia: Moscow",
-      "address": "login.p13.worldoftanks.net",
-      "color": "#8A2BE2", //Blueviolet
-      "visible": [0],
-      "api": "RU13"},
-
-     {"name": "RU14",
-      "place": "Russia: Moscow",
-      "address": "login.p14.worldoftanks.net",
-      "color": "#4B0082", //Indigo
-      "visible": [0],
-      "api": "RU14"},
 
      {"name": "EU1",
       "place": "Netherlands: Amsterdam",
@@ -117,6 +75,20 @@
       "visible": [],
       "api": "EU2"},
 
+     {"name": "EU3",
+      "place": "Luxembourg: Luxembourg",
+      "address": "login.p3.worldoftanks.eu",
+      "color": "#008000", //Green
+      "visible": [],
+      "api": "EU3"},
+
+     {"name": "EU4",
+      "place": "Kazakhstan: Almaty",
+      "address": "login.p4.worldoftanks.eu",
+      "color": "#039AB5", //Sky-blue
+      "visible": [],
+      "api": "EU4"},
+
      {"name": "USC",
       "place": "USA: Chicago",
       "address": "wotna3.login.wargaming.net",
@@ -125,7 +97,7 @@
       "api": "USC"},
 
      {"name": "LATAM",
-      "place": "Brazil: Santana de Parnaiba",
+      "place": "Brazil: Sao Paulo",
       "address": "wotna4.login.wargaming.net",
       "color": "#32CD32", //Limegreen
       "visible": [],
@@ -134,7 +106,7 @@
      {"name": "HK",
       "place": "Hong Kong: Hong Kong",
       "address": "wotasia2.login.wargaming.net",
-      "color": "#DC143C", //Crimson
+      "color": "#A52A2A", //Brown
       "visible": [],
       "api": "HK"},
 
@@ -146,21 +118,21 @@
       "api": "ANZ"},
 
      {"name": "CH1",
-      "place": "China: Beijing",
+      "place": "China: Shanghai",
       "address": "login.wotcnq1.wotgame.cn",
       "color": "#FF0000", //Red
       "visible": [],
-      "api": "CH1"},
+      "api": ""},
 
      {"name": "CH2",
       "place": "China: Shanghai",
       "address": "login.wotcnq2.wotgame.cn",
       "color": "#FF8C00", //DarkOrange
       "visible": [],
-      "api": "CH2"},
+      "api": ""},
 
      {"name": "XVM",
-      "place": "Germany: Falkenstein/Vogtland",
+      "place": "Germany: Falkenstein",
       "address": "stat.modxvm.com",
       "color": "#000000", //Black
       "visible": [],
